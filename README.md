@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sniiz/sniiz/refs/heads/main/white-hush.webp" alt="animated image of a stylized H logo spinning as a wireframe model" height="100rem"/>
+<img src="https://raw.githubusercontent.com/smrfld/smrfld/refs/heads/main/white-hush.webp" alt="animated image of a stylized H logo spinning as a wireframe model" height="100rem"/>
 
 # hi i'm haley and i make some silly things occasionally
 
